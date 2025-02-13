@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 787bb87586c04a878353882468178ecf, type: 3}
+  m_Name: Lvl_1
+  m_EditorClassIdentifier: 
+  spheres:
+  - {fileID: 2448424010294065061, guid: 3955940ff1bbfa7439862ec57143bfb1, type: 3}
+  - {fileID: 192338931100902386, guid: 2e823fc459aa81a4aa884af9a295a708, type: 3}
+  - {fileID: 3032323744311144855, guid: a3286b8c371782f479f4167bd8d0221b, type: 3}
